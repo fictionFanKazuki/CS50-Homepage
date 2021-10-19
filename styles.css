@@ -30,7 +30,7 @@
 a:link {
   color: orange;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:visited {
